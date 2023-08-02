@@ -48,7 +48,7 @@ void test()
 
     statistic[MAIN_STAT]++;
 
-    //cout << "¸ÞÀÎ ½ºÅÈ " << MAIN_STAT << " ·¹º§ " << "¼Ö ¿¡¸£´Ù Á¶°¢ " << SOL_ERDA << " °³ ¼Ò¸ð" << "\n";
+    //cout << "ë©”ì¸ ìŠ¤íƒ¯ " << MAIN_STAT << " ë ˆë²¨ " << "ì†” ì—ë¥´ë‹¤ ì¡°ê° " << SOL_ERDA << " ê°œ ì†Œëª¨" << "\n";
 }
 
 int main()
